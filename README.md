@@ -1,6 +1,6 @@
 # Myra Singh
 <h2>Hi, I'm Myra Singh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
+<img align='right' src="https://s3.eu-west-2.amazonaws.com/img.creativepool.com/files/candidate/portfolio/full/1357867.gif" width="230"> 
 <p><em>Electrical Engineering & Computer Science Student at the <a href="https://eecs.engin.umich.edu/">University of Michigan - Ann Arbor</a> 
   
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg1aHQ4ZnVmdHJoOWhiazlrZ2J5N3lobGJ3ZDdxOW40ZGpldzZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKSLd3q4TFh9jKzdQX/giphy.gif" width="50"> A little more about me...
@@ -21,4 +21,4 @@ const myra = {
   contact: ["myratech@umich.edu"],
 }
 ```
-<img src="https://s3.eu-west-2.amazonaws.com/img.creativepool.com/files/candidate/portfolio/full/1357867.gif" width="60"> <em>I’m passionate about vroom vroom </em> 
+<em>I’m passionate about vroom vroom 🏎️ 💨 💨 </em> 
