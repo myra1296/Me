@@ -14,7 +14,7 @@ const myra = {
   tools: ["NX Siemens", "Autodesk Fusion 360", "MATLAB", "Altium", "Figma",
           "Adobe InDesign/Photoshop/Firefly", "Cricut", "LaTeX", "Twine",
           "Postman", "SAP ERP", "NoMachine", "CTF/Pwning"],
-  languages: ["German", "Spanish", "Hindi", "Russian","Korean", "English"]
+  languages: ["German", "Spanish", "Hindi", "Russian","Korean", "English"],
   clubs & organizations: [
     "WISE RP Women in Science & Engineering - Residence Program Member",
     "MRacing Autonomous Team - Embedded Systems Lead",
