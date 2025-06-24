@@ -25,4 +25,5 @@ const myra = {
 }
 ```
 <em>I’m passionate about vroom vroom 🏎️ 💨 💨 </em> 
-<img src="https://s3.eu-west-2.amazonaws.com/img.creativepool.com/files/candidate/portfolio/full/1357867.gif" width="230"> 
+<br>
+<img src="https://s3.eu-west-2.amazonaws.com/img.creativepool.com/files/candidate/portfolio/full/1357867.gif"> 
