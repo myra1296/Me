@@ -7,20 +7,23 @@
 ```javascript
 const myra = {
   pronouns: "she" | "her",
+
   coding: ["C++", "Python", "Java", "HTML/CSS", "JavaScript", "ROS", "Git",
            "PCL","React", "Node.js", "Waitress", "Gunicorn", "Flask",
            "Selenium", "SSH", "Ubuntu", "SQL" ],
+
   tools: ["NX Siemens", "Autodesk Fusion 360", "MATLAB", "Altium", "Figma",
           "Adobe InDesign/Photoshop/Firefly", "Cricut", "LaTeX", "Twine",
           "Postman", "SAP ERP", "NoMachine", "CTF/Pwning"],
+
   languages: ["German", "Spanish", "Hindi", "Russian","Korean", "English"],
+
   clubs & organizations: [
     "WISE RP Women in Science & Engineering - Residence Program Member",
     "MRacing Autonomous Team - Embedded Systems Lead",
     "Pierpont Board of Directors - Vice Chairwoman of the Board",
-    "GEECS Girls in Electrical Engineering & Computer Science "
+    "GEECS Girls in Electrical Engineering & Computer Science "],
 
-  ],
   contact: ["myratech@umich.edu"],
 }
 ```
