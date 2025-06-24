@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> 
 <p><em>Electrical Engineering & Computer Science Student at the <a href="https://eecs.engin.umich.edu/">University of Michigan - Ann Arbor</a> 
   
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg1aHQ4ZnVmdHJoOWhiazlrZ2J5N3lobGJ3ZDdxOW40ZGpldzZiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TKSLd3q4TFh9jKzdQX/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const myra = {
